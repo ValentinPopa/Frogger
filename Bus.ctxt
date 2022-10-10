@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ @ValentinPopa\r\n
+comment1.params=direction
+comment1.target=Bus(Direction)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
